@@ -1,6 +1,9 @@
-# calcolater
+# calculator
 
-https://user-images.githubusercontent.com/75944731/175773360-d4a78b47-076a-4d0c-8f02-0e0b77118848.mp4
+
+https://user-images.githubusercontent.com/75944731/176193302-426368ef-c576-4272-b487-3ede7f819f8d.mp4
+
+
 
 A new Flutter project.
 
