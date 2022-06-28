@@ -1,7 +1,10 @@
 # calculator
 
 
-https://user-images.githubusercontent.com/75944731/176193302-426368ef-c576-4272-b487-3ede7f819f8d.mp4
+
+https://user-images.githubusercontent.com/75944731/176194491-a278e96d-a162-4f24-af6b-eb8996519538.mp4
+
+
 
 
 
